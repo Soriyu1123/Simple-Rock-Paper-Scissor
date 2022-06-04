@@ -1,0 +1,57 @@
+body{
+    background-color: beige;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header{
+    padding: 50px;
+    background-color: burlywood;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 12px;
+
+    
+}
+
+.columns{
+    padding: 10px;
+    background-color: white;
+    border: 3px;
+}
+
+.column1{
+    float: left;
+    position: relative;
+}
+.column2{
+    float: right;
+}
+
+.clickMe{
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 15px;   
+    border-radius: 5px;
+    background-color: burlywood;
+    color: white;
+    position: relative;
+    
+}
+
+.card{
+    background-color:white;
+    margin: auto;
+    margin-top: 1%;
+    padding: 250px;
+    height: 250px;
+    padding-top: 1px;
+    border-radius: 12px;
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container{
+    background: #F3E9DD;
+    text-align: center;
+    margin: auto;
+}
